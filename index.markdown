@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Technical Glass NZ"
+title: "Welcome to Technical Glass Shop NZ"
 permalink: /
 description: Tehnical Glass NZ supplies custom glass
 ---
@@ -15,5 +15,8 @@ You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
+![Image]({{ site.baseurl }}/assets/BRG6004.jpg)
 
-[jekyll-organization]: https://github.com/jekyll
+
+
+
