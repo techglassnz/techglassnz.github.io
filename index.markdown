@@ -1,21 +1,14 @@
 ---
 layout: page
-title: "Welcome to Technical Glass Shop NZ"
 permalink: /
-description: Tehnical Glass NZ supplies custom glass
+description: Technical Glass Shop NZ supplies undersized toughened glass, borosilicate glass, for industry
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## NZ's specialist glass supplier
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Welcome to NZ's specialist glass shop. We supply undersized toughened glass, borosilicate glass, cut to size
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-![Image]({{ site.baseurl }}/assets/BRG6004.jpg)
+# Site under construction
 
 
 

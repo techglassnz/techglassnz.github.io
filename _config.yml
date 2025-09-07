@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Technical Glass Services NZ
+title: Technical Glass Shop NZ
 #email: abc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Specialty high temp toughened glass for industry
+  Suppliers of undersized toughened glass, borosilicate glass, sight glasses for industry and more
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://techglass.nz" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -37,9 +37,16 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-header_pages:
-  - about.markdown
-  - services.markdown
+minima:
+#  nav_pages:
+#    - about.markdown
+#    - services.markdown
+#    - contact.markdown
+nav:
+- About: about.markdown
+- Services: services.markdown
+- Contact: contact.markdown
+
 
 
 # Exclude from processing.
